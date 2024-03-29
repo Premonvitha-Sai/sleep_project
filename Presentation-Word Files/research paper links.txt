@@ -1,0 +1,25 @@
+1.TITLE:A CLASSIFICATION OF SLEEP DISORDERS
+WITH OPTIMAL FEATURES USING MACHINE
+LEARNING TECHNIQUES
+lINK:https://www.thaiscience.info/Journals/Article/JHRE/10985248.pdf-
+mAY 2017
+Cite:Wongsirichot, T. and Hanskunatai, A., 2017. A classification of sleep disorders with optimal features using machine learning techniques. Journal of Health Research, 31(3), pp.209-217.
+
+2.TITLE-Application of various machine learning techniques to predict obstructive sleep apnea syndrome severity
+LINK:https://www.nature.com/articles/s41598-023-33170-7
+CIte:Han, H., Oh, J. Application of various machine learning techniques to predict obstructive sleep apnea syndrome severity. Sci Rep 13, 6379 (2023). https://doi.org/10.1038/s41598-023-33170-7
+
+3.TITLE:Brief digital sleep questionnaire powered by machine learning
+prediction models identifies common sleep disorders
+LINK-https://www.sciencedirect.com/science/article/abs/pii/S1389945720301179
+Cite:Schwartz, Alan R., Mairav Cohen-Zion, Luu V. Pham, Amit Gal, Mudiaga Sowho, Francis P. Sgambati, Tracy Klopfer et al. "Brief digital sleep questionnaire powered by machine learning prediction models identifies common sleep disorders." Sleep Medicine 71 (2020): 66-76.
+
+4.TITLE:Sleep Expert-an intelligent medical decision
+support system for sleep disorders -International Journal of Medical Informatics-LINKS:https://www.tandfonline.com/doi/abs/10.3109/14639239309034478
+CIte:Korpinen, L., and H. Frey. "Sleep Expert—an intelligent medical decision support system for sleep disorders." Medical Informatics 18.2 (1993): 163-170.
+ Jul 2009
+5.Base paper-
+TITLE:Predicting the Risk of Sleep Disorders Using a Machine
+Learning–Based Simple Questionnaire: Development and
+Validation Study
+LINK-https://www.jmir.org/2023/1/e46520

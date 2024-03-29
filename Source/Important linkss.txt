@@ -1,0 +1,9 @@
+Important links
+1.https://github.com/maikelps/SleepDisorder
+git commands:
+1.cd d:
+2.cd new
+3.cd MajorProject
+4.cd Source
+5.git clone -b notebooks-branch https://github.com/maikelps/SleepDisorder.git(To clone specific branch).
+6.git clone https://github.com/maikelps/SleepDisorder.git(to clone complete repo).
