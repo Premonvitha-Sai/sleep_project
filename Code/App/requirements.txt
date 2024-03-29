@@ -1,0 +1,8 @@
+joblib==1.3.1
+matplotlib==3.7.2
+modeling==0.0.1.dev0
+numpy==1.24.3
+openai==0.28.0
+pandas==2.0.3
+scikit_learn==1.3.0
+streamlit==1.26.0
